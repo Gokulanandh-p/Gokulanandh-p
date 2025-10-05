@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gokul Anandh Palanisamy  
+#Hi, I'm Gokul Anandh Palanisamy  
 **Business Systems Analyst | Data Analytics | Supply Chain Management**
 
 🎓 MBA – Business Analytics & Supply Chain Management  
