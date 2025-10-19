@@ -50,6 +50,4 @@ Currently based in Kentucky, USA.
 
 ---
 
-📂 Explore my work:  
-🔗 [Housing Dashboard Repository](https://github.com/Gokulanandh-p/housing-dashboard)  
-🔗 [Portfolio Website](https://my-blue-folio.lovable.app/)
+
